@@ -4,7 +4,7 @@
     "label": "Genomics & Bioinformatics Research Associate",
     "image": "",
     "email": "kibet.gilbert.r@gmail.com",
-    "phone": "+254717715755",
+    "phone": "",
     "url": "https://github.com/kibet-gilbert",
     "summary": "Bioinformatics and genomics scientist focusing on microbial and viral sequencing, high-throughput analysis, and open, reproducible scientific research.",
     "location": {
@@ -30,16 +30,17 @@
   "work": [
     {
       "name": "International Livestock Research Institute (ILRI)",
-      "position": "Research Associate II, Genomics & Bioinformatics",
+      "position": "Research Associate, Genomics & Bioinformatics",
       "url": "https://www.ilri.org",
       "startDate": "2020-08-01",
-      "endDate": "",
+      "endDate": "",]
       "summary": "Metagenomic, viral, bacterial, wastewater and single-cell NGS analysis.",
       "highlights": [
         "Library preparation and sequencing using Illumina and ONT platforms.",
-        "Pipeline development (Nextflow, Snakemake) for genome assembly and AMR detection.",
-        "Data curation and submission to NCBI, GISAID.",
-        "Statistical analysis with R, visualization, manuscript drafting."
+        "Bioinformatics Pipeline development (Nextflow for genome assembly and AMR detection.",
+	"Bioinformatics Analysis in a local HPC cluster and managing jovs using SLURM",
+        "Data management, curation and submission to NCBI, GISAID.",
+        "Statistical analysis with R & Python, visualization, manuscript drafting."
       ]
     }
   ],
@@ -53,8 +54,8 @@
       "endDate": "2021-01-01",
       "summary": "Co-developed a ten-hour open course on preprints in life sciences.",
       "highlights": [
-        "Organized preprint workshops",
-        "Mentored early-career researchers in open science"
+        "Created and Updloaded the content to ASAPbio's GitHub repo",
+        "I advocate for open science and preprints among early-career researchers"
       ]
     }
   ],
@@ -178,12 +179,12 @@
   ],
   "projects": [
     {
-      "name": "Scalable Metagenomic Pipeline on ILRI HPC",
-      "summary": "Nextflow pipeline for processing 500+ samples daily on 64-node Slurm HPC; includes QC, assembly, taxonomy, AMR profiling.",
-      "highlights": ["Modular design with BioContainers", "Slack notification & MultiQC integration"],
-      "startDate": "2022-06-01",
+      "name": "Wastewater Pathogen and AMR surveillance through shotgun metagenomics",
+      "summary": "I develop and maintain a Nextflow pipeline for processing 1000+ samples on Slurm HPC; includes QC, assembly, taxonomy, AMR profiling.",
+      "highlights": ["Modular design with BioContainers", "MultiQC integration"],
+      "startDate": "2023-06-01",
       "endDate": "",
-      "url": "https://github.com/kibet-gilbert/wastewater-pipeline"
+      "url": "https://github.com/ILRI-Genomics-Platform/wastewater-Meta-Genomic-Pathogen-Surveillance"
     }
   ]
 }
