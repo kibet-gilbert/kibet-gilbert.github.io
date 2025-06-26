@@ -6,15 +6,12 @@ importance: 1
 category: work
 related_publications: true
 tags: ["Waste Water", "metagenomics", "pathogen surveillance", "Epidemiology"]
-description: with background image
+description: This is the workflow we employ in the analysis of sequences with the goal of tracking pathogens of public health interest so as to inform on rapid response. Because a quick turn around is needed, the computational steps taken and fast to ensure feedback is provided in time.
 img: /assets/img/ww_shotgun_metagenomics_workflow.png
 links:
   github: https://github.com/ILRI-Genomics-Platform/wastewater-Meta-Genomic-Pathogen-Surveillance
   pdf: /assets/pdf/pipeline_poster.pdf
 ---
-
-workflow processing 500 wastewater samples/day.
-
 
 ## Overview
 
