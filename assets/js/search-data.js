@@ -32,7 +32,7 @@ ninja.data = [{
           },
         },{id: "nav-repositories",
           title: "Repositories",
-          description: "Here is a summary of my projects that are hosted in GitHub repositories: [kibet-gilbert](https://github.com/kibet-gilbert) (personal) and [ILRI-Genomics-Platform](https://github.com/ILRI-Genomics-Platform/) (organization).",
+          description: "Here is a summary of my projects that are hosted in GitHub repositories under [kibet-gilbert](https://github.com/kibet-gilbert) (personal) and [ILRI-Genomics-Platform](https://github.com/ILRI-Genomics-Platform/) (organization).",
           section: "Navigation",
           handler: () => {
             window.location.href = "/repositories/";
