@@ -16,18 +16,19 @@ links:
 
 This pipeline was developed based on **Nextflow + Singularity** to analysisd shotgun metagenomic NGS data for monitoring pathogens in wastewater across selected sites in Mombasa and Kisumu, Kenya. The work was done at [ILRI](https://www.ilri.org/) through its [Genomics Platform](https://www.ilri.org/research/facilities/genomics-platform).
 
-## Sampling & Workflow
+## Analysis Workflow
 
-* Modular steps: Prefetch → QC → Assembly → Taxonomy → AMR
-* Containerised with BioContainers
-* Automated MultiQC reports & Slack alerts
+- Modular steps: Prefetch → QC → Assembly → Taxonomy → AMR
+- Containerised with BioContainers
+- Automated MultiQC reports & Slack alerts
 
-- **Sequence data** from Illumina NextSeq is processed through a custom pipeline similar to [nf-core/MAG](https://nf-co.re/mag/): QC, human filtering, and taxonomic classification with Kraken2 and Centrifuge.
-- **Taxonomic reports** are merged and filtered via [pavian](https://github.com/fbreitwieser/pavian) in R to generate relative and absolute abundance profiles.
+* **Sequence data** from Illumina NextSeq is processed through a custom pipeline similar to [nf-core/MAG](https://nf-co.re/mag/): QC, human filtering, and taxonomic classification with Kraken2 and Centrifuge.
+* **Taxonomic reports** are merged and filtered via [pavian](https://github.com/fbreitwieser/pavian) in R to generate relative and absolute abundance profiles.
 
 ## Pathogens of Interest
 
 Lists of target organisms are curated and updated. See:
+
 - Pathogenic Bacteria
 - Pathogenic Viruses
 - Pathogenic Parasites
@@ -35,4 +36,5 @@ Lists of target organisms are curated and updated. See:
 Antimicrobial resistance gene detection using CARD/RGI is also under development.
 
 ## Resources
+
 This project is under active development. For details, see the Bioinformatics Workflow pdf.

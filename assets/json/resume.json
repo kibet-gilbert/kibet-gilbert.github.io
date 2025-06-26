@@ -38,7 +38,7 @@
       "highlights": [
         "Library preparation and sequencing using Illumina and ONT platforms.",
         "Bioinformatics Pipeline development (Nextflow for genome assembly and AMR detection.",
-	"Bioinformatics Analysis in a local HPC cluster and managing jobs using SLURM",
+        "Bioinformatics Analysis in a local HPC cluster and managing jobs using SLURM",
         "Data management, curation and submission to NCBI, GISAID.",
         "Statistical analysis with R & Python, visualization, manuscript drafting."
       ]
