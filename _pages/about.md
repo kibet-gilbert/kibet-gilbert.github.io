@@ -59,7 +59,7 @@ Besides Data Management and Analysis, I have experience with:
 ✔ **Sequencers I work with**: Illumina MiSeq, NextSeq550 and 2000 and ONT  
 
 Outside research I train early‑career bioinformaticians in reproducible analysis and FAIR data stewardship.  
----
 
 My GitHub account: [kibet-gilbert](https://github.com/kibet-gilbert).  
+
 ---
