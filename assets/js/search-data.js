@@ -441,8 +441,8 @@ ninja.data = [{
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/2025-06-25-launch/";
-            },},{id: "projects-scalable-metagenomic-pipeline-on-ilri-hpc",
-          title: 'Scalable Metagenomic Pipeline on ILRI HPC',
+            },},{id: "projects-waste-water-based-epidemiological-surveillance-wbe",
+          title: 'Waste Water Based Epidemiological Surveillance (WBE)',
           description: "with background image",
           section: "Projects",handler: () => {
               window.location.href = "/projects/1_project/";
