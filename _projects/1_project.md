@@ -12,7 +12,6 @@ links:
   github: https://github.com/ILRI-Genomics-Platform/wastewater-Meta-Genomic-Pathogen-Surveillance
   pdf: /assets/pdf/pipeline_poster.pdf
 ---
-
 ## Overview
 
 This pipeline was developed based on **Nextflow + Singularity** to analysisd shotgun metagenomic NGS data for monitoring pathogens in wastewater across selected sites in Mombasa and Kisumu, Kenya. The work was done at [ILRI](https://www.ilri.org/) through its [Genomics Platform](https://www.ilri.org/research/facilities/genomics-platform).
@@ -36,5 +35,4 @@ Lists of target organisms are curated and updated. See:
 Antimicrobial resistance gene detection using CARD/RGI is also under development.
 
 ## Resources
-
-> This project is under active development. For details, see the Bioinformatics Workflow pdf.
+This project is under active development. For details, see the Bioinformatics Workflow pdf.
