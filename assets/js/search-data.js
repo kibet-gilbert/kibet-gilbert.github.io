@@ -31,15 +31,15 @@ ninja.data = [{
             window.location.href = "/projects/";
           },
         },{id: "nav-repositories",
-          title: "repositories",
-          description: "Edit the `_data/repositories.yml` and change the `github_users` and `github_repos` lists to include your own GitHub profile and repositories.",
+          title: "Repositories",
+          description: "Here is a summary of my projects that are hosted in GitHub repositories: [kibet-gilbert](https://github.com/kibet-gilbert) (personal) and [ILRI-Genomics-Platform](https://github.com/ILRI-Genomics-Platform/) (organization).",
           section: "Navigation",
           handler: () => {
             window.location.href = "/repositories/";
           },
         },{id: "nav-cv",
           title: "CV",
-          description: "This is a description of the page. You can modify it in &#39;_pages/cv.md&#39;. You can also change or remove the top pdf download button.",
+          description: "I aspire to seek a deeper scientific understanding of pathogens, hosts and habitats through bioinformatics and computational analysis of big biological and genomic data, and promoting open reproducible scientific research.",
           section: "Navigation",
           handler: () => {
             window.location.href = "/cv/";
