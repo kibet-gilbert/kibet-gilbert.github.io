@@ -2,7 +2,7 @@
 # Site settings
 # -----------------------------------------------------------------------------
 
-title: "Gilbert Kibet" # the website title (if blank, full name will be used instead)
+title: "Gilbert Kibet" # the website title (if blank, full name will be used instead)
 subtitle: "Genomics & Bioinformatics Data Scientist"
 first_name: "Gilbert"
 middle_name: "Kibet"
@@ -148,7 +148,7 @@ collections:
   books:
     output: true
   news:
-    defaults:
+      defaults:
       layout: post
     output: true
   projects:
