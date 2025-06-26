@@ -443,7 +443,7 @@ ninja.data = [{
               window.location.href = "/news/2025-06-25-launch/";
             },},{id: "projects-waste-water-based-epidemiological-surveillance-wbe",
           title: 'Waste Water Based Epidemiological Surveillance (WBE)',
-          description: "with background image",
+          description: "This is the workflow we employ in the analysis of sequences with the goal of tracking pathogens of public health interest so as to inform on rapid response. Because a quick turn around is needed, the computational steps taken and fast to ensure feedback is provided in time.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/1_project/";
             },},{id: "projects-project-2",
