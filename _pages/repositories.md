@@ -2,7 +2,7 @@
 layout: page
 permalink: /repositories/
 title: Repositories
-description: "Here is a summary of my projects that are hosted in GitHub repositories: [kibet-gilbert](https://github.com/kibet-gilbert) (personal) and [ILRI-Genomics-Platform](https://github.com/ILRI-Genomics-Platform/) (organization)."
+description: Here is a summary of my projects that are hosted in GitHub repositories under [kibet-gilbert](https://github.com/kibet-gilbert) (personal) and [ILRI-Genomics-Platform](https://github.com/ILRI-Genomics-Platform/) (organization).
 nav: true
 nav_order: 4
 ---
