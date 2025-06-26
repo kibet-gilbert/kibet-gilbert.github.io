@@ -1,17 +1,17 @@
 ---
 layout: about
-title: about
+title: About
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: <a href='#'>International Livestock Research Institute</a>. PO Box 30709, Nairobi 00100, Kenya. Better lives, better planet through Genomics.
 
 profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p>P.O Box 30772-00100</p>
+    <p>ILRI, Naivash rd.</p>
+    <p>Nairobi, Kenya</p>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
@@ -27,8 +27,37 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+# About Me
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+I am a genomics & bioinformatics **data scientist** at the International Livestock Research Institute (ILRI), Nairobi. The research I am engaged in seeks a deeper scientific understanding of pathogens, their hosts and habitats through bioinformatics and computational analysis of biological and genomic data. I also promote open reproducible scientific research. Technically, I work in a genomics lab to test, sequence and analyse microbial, animal and environmental samples. 
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+I have been privileged to work on viral (SARs-CoV-2, MERS, Influenza A, Hepatitis E), bacterial, wastewater (shotgun metagenomic) and 10X single-cell NGS data. 
+
+---
+# *My Area of Expertise*.
+## **Data management**:
+✔ **Data Collection:** Gathering raw data from various sources (e.g., clinical studies, experiments, surveys).  
+✔ **Data Storage:** Securely storing data in structured databases, cloud storage, or high-performance computing environments.  
+✔ **Data Cleaning:** Removing errors, duplicates, and inconsistencies to ensure data quality.  
+✔ **Data Standardization:** Formatting data consistently using recognized standards (e.g., **ISO 8601 for dates, MIxS for metadata**).  
+✔ **Data Security & Privacy:** Implementing protection measures (encryption, access control) to safeguard sensitive data.  
+✔ **Data Sharing & Accessibility:** Ensuring data is **FAIR (Findable, Accessible, Interoperable, Reusable)** to facilitate collaboration.  
+✔ **Data Archiving:** Long-term storage and preservation of datasets for future reference or regulatory requirements.
+
+## **Bioinformatics Pipeline-Development and Genomics Analysis**:
+I develop and maintain fast, scalable and reproducible bioinformatics pipelines for short and long-read sequence data based on Linux, git&GitHub and workflow management engines (Nextflow).  
+
+✔ **Recent Projects I have worked on**:
+ - *Wastewater Shotgun metagenomics for Pathogen and AMR Surveillance*  
+ - *Whole Genome Sequencing, assembly, variant calling and annotation*  
+ - *10X Single-cell analysis*   
+ - *Phylogenomics and phylogeography of Vectors and Pests*  
+
+Besides Data Management and Analysis, I have experience with:  
+✔ **High-Performance Computing** based on own or open source tools and job-schedulers (SLURM);   
+✔ **Statistical analysis (R/Python) and generating publication-ready figures**: graphs, trees, networks.  
+✔ **Sequencers I work with**: Illumina MiSeq, NextSeq550 and 2000 and ONT  
+
+Outside research I train early‑career bioinformaticians in reproducible analysis and FAIR data stewardship.
+
+My GitHub account: [kibet-gilbert](https://github.com/kibet-gilbert).

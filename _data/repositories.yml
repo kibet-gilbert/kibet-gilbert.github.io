@@ -1,14 +1,13 @@
 github_users:
-  - torvalds
-  - alshedivat
+  - kibet-gilbert
+  - ILRI-Genomics-Platform
 
 repo_description_lines_max: 2
 
 github_repos:
-  - alshedivat/al-folio
-  - jekyll/jekyll
-  - twbs/bootstrap
-  - jquery/jquery
-  - FortAwesome/Font-Awesome
-  - mathjax/MathJax
-  - jpswalsh/academicons
+  - https://github.com/kibet-gilbert/wastewaterPathogenGenomicsModelling
+  - kibet-gilbert/metagen
+  - ILRI-Genomics-Platform/wastewater-Meta-Genomic-Pathogen-Surveillance
+  - kibet-gilbert/co1_metaanalysis
+  - ILRI-Genomics-Platform/AMR-Genomic-Surveillance
+  - ILRI-Genomics-Platform/ilri-africa-cdc-training

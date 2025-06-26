@@ -1,34 +1,19 @@
-"adams":
-  - firstname: ["Edwin", "E.", "E. P.", "Edwin Plimpton"]
-    url: https://en.wikipedia.org/wiki/Edwin_Plimpton_Adams
+"oyola":
+  - firstname: ["Samuel", "O.", "S. O.", "Samuel Oyola"]
+    url: https://www.researchgate.net/profile/Samuel-Oyola
 
-"podolsky":
-  - firstname: ["Boris", "B.", "B. Y.", "Boris Yakovlevich"]
-    url: https://en.wikipedia.org/wiki/Boris_Podolsky
+"Njenga":
+  - firstname: ["Kariuki", "M.", "M. K.", "Kariuki Njenga"]
+    url: https://www.researchgate.net/profile/M-Njenga-2
 
-"rosen":
-  - firstname: ["Nathan", "N."]
-    url: https://en.wikipedia.org/wiki/Nathan_Rosen
+"Oliveira":
+  - firstname: ["Tulio", "D."]
+    url: https://www.researchgate.net/profile/Tulio-De-Oliveira
 
-"bach":
-  - firstname: ["Johann Sebastian", "J. S."]
-    url: https://en.wikipedia.org/wiki/Johann_Sebastian_Bach
+"Lugano":
+  - firstname: ["Doreen Lugano", "D. L."]
+    url: https://www.researchgate.net/profile/Doreen-Lugano-2
 
-  - firstname: ["Carl Philipp Emanuel", "C. P. E."]
-    url: https://en.wikipedia.org/wiki/Carl_Philipp_Emanuel_Bach
-
-"przibram":
-  - firstname: ["Karl"]
-    url: https://link.springer.com/article/10.1007/s00016-019-00242-z
-
-"schrodinger":
-  - firstname: ["Erwin"]
-    url: https://en.wikipedia.org/wiki/Erwin_Schr%C3%B6dinger
-
-"lorentz":
-  - firstname: ["Hendrik Antoon"]
-    url: https://en.wikipedia.org/wiki/Hendrik_Lorentz
-
-"planck":
-  - firstname: ["Max"]
-    url: https://en.wikipedia.org/wiki/Max_Planck
+"Kibet":
+  - firstname: ["Caleb", "C. K.", "Caleb Kipkurui"]
+    url: https://www.researchgate.net/profile/Caleb-Kibet
