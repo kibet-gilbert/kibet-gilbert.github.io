@@ -61,9 +61,9 @@ I develop and maintain fast, scalable and reproducible bioinformatics pipelines 
  - _Phylogenomics and phylogeography of Vectors and Pests_  
 
 Besides Data Management and Analysis, I have experience with:  
-✔ **High-Performance Computing** based on own or open source tools and job-schedulers (SLURM);
-✔ **Statistical analysis (R/Python) and generating publication-ready figures**: graphs, trees, networks.
-✔ **Sequencers I work with**: Illumina MiSeq, NextSeq550 and 2000 and ONT.
+✔ **High-Performance Computing** based on own or open source tools and job-schedulers (SLURM);  
+✔ **Statistical analysis (R/Python) and generating publication-ready figures**: graphs, trees, networks.  
+✔ **Sequencers I work with**: Illumina MiSeq, NextSeq550 and 2000 and ONT.  
 
 Outside research I train early‑career bioinformaticians in reproducible analysis and FAIR data stewardship.
 
