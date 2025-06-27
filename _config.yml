@@ -88,12 +88,8 @@ bing_site_verification: # out your bing-site-verification ID (Bing Webmaster)
 # Blog
 # -----------------------------------------------------------------------------
 
-blog_name: "Genomic Analysis,   
-  Data management &  
-  Open Science" # blog_name will be displayed in your blog page
-blog_description: "A few engaging blogs on Bioinformatics, Data Management and Open science.   
-  Through this blog hope to inspire you to explore and use them more as tools in your research.   
-  I explore the power and nitty-gritties of Genomics Experiments, Data, Analysis, Open Science and Reproducible data analysis."
+blog_name: "Genomic Analysis, Data management & Open Science" # blog_name will be displayed in your blog page
+blog_description: "A few engaging blogs on Bioinformatics, Data Management and Open science. Through this blog I hope to inspire you to explore them and use them more as tools in your research. I explore the power and nitty-gritties of Genomics Experiments, Data, Analysis, Open Science and Reproducible data analysis."
 permalink: /blog/:year/:title/
 lsi: false # produce an index for related posts
 

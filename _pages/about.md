@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: <a href='#'>International Livestock Research Institute</a>. PO Box 30709, Nairobi 00100, Kenya. Better lives, better planet through Genomics.
+subtitle: <a href='#'>International Livestock Research Institute</a>. PO Box 30709, Nairobi 00100, Kenya. "Better lives, better planet through..." 'Genomics'.
 
 profile:
   align: right
@@ -27,15 +27,15 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-# About Me  
+# About Me
 
-I am a genomics & bioinformatics **data scientist** at the International Livestock Research Institute (ILRI), Nairobi. The research I am engaged in seeks a deeper scientific understanding of pathogens, their hosts and habitats through bioinformatics and computational analysis of biological and genomic data. I also promote open reproducible scientific research. Technically, I work in a genomics lab to test, sequence and analyse microbial, animal and environmental samples.   
+I am a genomics & bioinformatics **data scientist** at the International Livestock Research Institute (ILRI), Nairobi. The research I am engaged in seeks a deeper scientific understanding of pathogens, their hosts and habitats through bioinformatics and computational analysis of biological and genomic data. I also promote open reproducible scientific research. Technically, I work in a genomics lab to test, sequence and analyse microbial, animal and environmental samples.
 
-I have been privileged to work on viral (SARs-CoV-2, MERS, Influenza A, Hepatitis E), bacterial, wastewater (shotgun metagenomic) and 10X single-cell NGS data.  
+I have been privileged to work on viral (SARs-CoV-2, MERS, Influenza A, Hepatitis E), bacterial, wastewater (shotgun metagenomic) and 10X single-cell NGS data.
 
 ---
 
-# *My Area of Expertise*.
+# _My Area of Expertise_.
 
 ---
 
@@ -51,21 +51,21 @@ I have been privileged to work on viral (SARs-CoV-2, MERS, Influenza A, Hepatiti
 
 ## **Bioinformatics Pipeline-Development and Genomics Analysis**:
 
-I develop and maintain fast, scalable and reproducible bioinformatics pipelines for short and long-read sequence data based on Linux, git&GitHub and workflow management engines (Nextflow).  
+I develop and maintain fast, scalable and reproducible bioinformatics pipelines for short and long-read sequence data based on Linux, git&GitHub and workflow management engines (Nextflow).
 
 ✔ **Recent Projects I have worked on**:
 
- - _Wastewater Shotgun metagenomics for Pathogen and AMR Surveillance_  
- - _Whole Genome Sequencing, assembly, variant calling and annotation_  
- - _10X Single-cell analysis_  
- - _Phylogenomics and phylogeography of Vectors and Pests_  
+ - _Wastewater Shotgun metagenomics for Pathogen and AMR Surveillance_
+ - _Whole Genome Sequencing, assembly, variant calling and annotation_
+ - _10X Single-cell analysis_
+ - _Phylogenomics and phylogeography of Vectors and Pests_
 
 Besides Data Management and Analysis, I have experience with:  
 ✔ **High-Performance Computing** based on own or open source tools and job-schedulers (SLURM);  
 ✔ **Statistical analysis (R/Python) and generating publication-ready figures**: graphs, trees, networks.  
-✔ **Sequencers I work with**: Illumina MiSeq, NextSeq550 and 2000 and ONT.  
+✔ **Sequencers I work with**: Illumina MiSeq, NextSeq550 and 2000 and ONT.
 
-Outside research I train early‑career bioinformaticians in reproducible analysis and FAIR data stewardship.
+Away from day-to-day research, I train and mentor early‑career bioinformaticians in reproducible analysis and FAIR data stewardship.
 
 My GitHub account: [kibet-gilbert](https://github.com/kibet-gilbert).
 
