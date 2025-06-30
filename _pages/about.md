@@ -55,10 +55,10 @@ I develop and maintain fast, scalable and reproducible bioinformatics pipelines 
 
 ✔ **Recent Projects I have worked on**:
 
- -_Wastewater Shotgun metagenomics for Pathogen and AMR Surveillance_
- -_Whole Genome Sequencing, assembly, variant calling and annotation_
- -_10X Single-cell analysis_
- -_Phylogenomics and phylogeography of Vectors and Pests_
+ -_Wastewater Shotgun metagenomics for Pathogen and AMR Surveillance_  
+ -_Whole Genome Sequencing, assembly, variant calling and annotation_  
+ -_10X Single-cell analysis_  
+ -_Phylogenomics and phylogeography of Vectors and Pests_  
 
 Besides Data Management and Analysis, I have experience with:  
 ✔ **High-Performance Computing** based on own or open source tools and job-schedulers (SLURM);  
