@@ -98,17 +98,26 @@
   ],
   "awards": [
     {
-      "title": "H3Africa Bioinformatics Grant",
+      "title": "The CODATA-RDA Research Data Science Travel Grant",
       "date": "2019-08-01",
-      "awarder": "H3Africa Consortium",
-      "url": "",
+      "location": "Trieste, Italy",
+      "awarder": "H3ABioNet",
+      "url": "https://www.h3abionet.org/about/consortium",
+      "summary": "Awarded to attend The CODATA-RDA Research Data Science Advanced Workshop on Bioinformatics at the Abdus Salam International Centre for Theoretical Physics (ICTP)."
+    },
+    {
+      "title": "H3ABionet ISCB–ASBCB Conference Travel Grant",
+      "date": "2019-11-01",
+      "location": "Kumasi, Ghana",
+      "awarder": "H3ABioNet",
+      "url": "https://www.h3abionet.org/about/consortium",
       "summary": "Training and travel support for bioinformatics workshops in Africa."
     },
     {
       "title": "ASAPbio Fellowship",
       "date": "2020-01-01",
       "awarder": "ASAPbio",
-      "url": "https://asapbio.org/fellowship",
+      "url": "https://asapbio.org/community/fellows-program/2020-asapbio-fellows/",
       "summary": "Awarded for preprint advocacy and open science training."
     }
   ],
