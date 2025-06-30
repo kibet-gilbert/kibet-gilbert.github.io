@@ -5,8 +5,9 @@
     "image": "",
     "email": "kibet.gilbert.r@gmail.com",
     "phone": "",
-    "url": "https://github.com/kibet-gilbert",
-    "summary": "Bioinformatics and genomics scientist focusing on microbial and viral sequencing, high-throughput analysis, and open, reproducible scientific research.",
+    "website": "https://kibet-gilbert.github.io",
+    "GitHub": "https://github.com/kibet-gilbert",
+    "summary": "I am a bioinformatician focusing on pathogen genomics: NGS sequencing, high-throughput analysis, and open, reproducible scientific research.",
     "location": {
       "address": "P.O Box 30772-00100",
       "postalCode": "00100",
@@ -31,14 +32,15 @@
     {
       "name": "International Livestock Research Institute (ILRI)",
       "position": "Research Associate, Genomics & Bioinformatics",
+      "location": "Kenya",
       "url": "https://www.ilri.org",
       "startDate": "2020-08-01",
       "endDate": "",
       "summary": "Metagenomic, viral, bacterial, wastewater and single-cell NGS analysis.",
       "highlights": [
         "Library preparation and sequencing using Illumina and ONT platforms.",
-        "Bioinformatics Pipeline development (Nextflow for genome assembly and AMR detection.",
-        "Bioinformatics Analysis in a local HPC cluster and managing jobs using SLURM",
+        "Bioinformatics Pipeline development (Nextflow, Linux, git & GitHub)",
+        "Bioinformatics Analysis in a local HPC cluster and using SLURM",
         "Data management, curation and submission to NCBI, GISAID.",
         "Statistical analysis with R & Python, visualization, manuscript drafting."
       ]
@@ -54,7 +56,7 @@
       "endDate": "2021-01-01",
       "summary": "Co-developed a ten-hour open course on preprints in life sciences.",
       "highlights": [
-        "Created and Updloaded the content to ASAPbio's GitHub repo",
+        "Updated and Updloaded the content to ASAPbio's GitHub repo",
         "I advocate for open science and preprints among early-career researchers"
       ]
     }
