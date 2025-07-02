@@ -33,6 +33,8 @@ I am a **genomics & bioinformatics data scientist** at the International Livesto
 
 I have been privileged to work on **viral** (SARs-CoV-2, MERS, Influenza A, Hepatitis E) and **bacterial WGS**, **wastewater (shotgun metagenomic)** and **10X single-cell** NGS data.
 
+Other than that I am a humanist and I live by these values: Respectful, Responsible and Responsive.
+
 ---
 
 # _My Area of Expertise_.
