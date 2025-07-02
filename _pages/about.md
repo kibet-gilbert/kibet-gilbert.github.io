@@ -29,9 +29,9 @@ latest_posts:
 
 # About Me
 
-I am a genomics & bioinformatics **data scientist** at the International Livestock Research Institute (ILRI), Nairobi. The research I am engaged in seeks a deeper scientific understanding of pathogens, their hosts and habitats through bioinformatics and computational analysis of biological and genomic data. I also promote open reproducible scientific research. Technically, I work in a genomics lab to test, sequence and analyse microbial, animal and environmental samples.
+I am a **genomics & bioinformatics data scientist** at the International Livestock Research Institute (ILRI), Nairobi. The research I am engaged in seeks a deeper scientific understanding of pathogens, their hosts and habitats through bioinformatics and computational analysis of biological and genomic data. I also promote open reproducible scientific research. Technically, I work in a genomics lab to test, sequence and analyse microbial, animal and environmental samples.
 
-I have been privileged to work on viral (SARs-CoV-2, MERS, Influenza A, Hepatitis E), bacterial, wastewater (shotgun metagenomic) and 10X single-cell NGS data.
+I have been privileged to work on **viral** (SARs-CoV-2, MERS, Influenza A, Hepatitis E) and **bacterial WGS**, **wastewater (shotgun metagenomic)** and **10X single-cell** NGS data.
 
 ---
 
@@ -51,7 +51,7 @@ I have been privileged to work on viral (SARs-CoV-2, MERS, Influenza A, Hepatiti
 
 ## **Bioinformatics Pipeline-Development and Genomics Analysis**:
 
-I develop and maintain fast, scalable and reproducible bioinformatics pipelines for short and long-read sequence data based on Linux, git&GitHub and workflow management engines (Nextflow).
+I **develop and maintain fast, scalable and reproducible bioinformatics pipelines** for short and long-read sequence data based on **Linux**, **git & GitHub** and **workflow management engines (Nextflow)**.
 
 ✔ **Recent Projects I have worked on**:
 
